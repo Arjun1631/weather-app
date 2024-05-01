@@ -1,6 +1,6 @@
 # weather-app
 
-##This repository hosts the code for a dynamic web-based weather application that provides real-time weather updates for any specified location. Users can simply enter a location (city, region, or country) to fetch and display the current weather conditions including temperature, a brief description of the weather, and a corresponding weather icon.
+This repository hosts the code for a dynamic web-based weather application that provides real-time weather updates for any specified location. Users can simply enter a location (city, region, or country) to fetch and display the current weather conditions including temperature, a brief description of the weather, and a corresponding weather icon.
 
 Key Features:
 User-Friendly Interface: Easy to navigate web interface for entering and retrieving weather data.
